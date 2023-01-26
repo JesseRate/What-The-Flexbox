@@ -13,7 +13,7 @@ body {
   background-image: linear-gradient(260deg, #2376ae 0%, #c16ecf 100%);
 }
 
-a {
+a: {
   color:white;
   font-weight: 100;
   letter-spacing: 2px;
